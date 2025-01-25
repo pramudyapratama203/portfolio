@@ -15,6 +15,5 @@ Hi! I am Pramudya Pratama, a passionate learner and developer.
 
 ## Get in Touch
 
-- **Email**: [your-email@example.com](mailto:your-email@example.com)
-- **LinkedIn**: [Your LinkedIn Profile](https://linkedin.com/in/your-profile)
-- **GitHub**: [Your GitHub Profile](https://github.com/your-profile)
+- **LinkedIn**: https://www.linkedin.com/in/putu-pramudya-pratama-b9aa0a326/
+- **GitHub**: https://github.com/pramudyapratama203/
